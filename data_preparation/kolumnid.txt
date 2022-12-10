@@ -1,0 +1,53 @@
+0 | Juhtumi nr | keep
+1 | Toimumisaeg | keep
+2 | Isikuid | keep
+3 | Hukkunuid | keep
+4 | Vigastatuid | keep
+5 | Sõidukeid | keep
+6 | Aadress (PPA) | keep
+7 | Maja nr (PPA) | drop
+8 | Tänav (PPA) | drop
+9 | Ristuv tänav (PPA) | drop
+10 | Maakond (PPA) | drop
+11 | Omavalitsus (PPA) | drop
+12 | Asustus (PPA) | drop
+13 | Asula | drop
+14 | Liiklusõnnetuse liik [1] | drop
+15 | Liiklusõnnetuse liik [3] | keep
+16 | Kergliikurijuhi osalusel | keep
+17 | Jalakäija osalusel | keep
+18 | Kaassõitja osalusel | keep
+19 | Maastikusõiduki juhi osalusel | keep
+20 | Eaka (65+) mootorsõidukijuhi osalusel | keep
+21 | Bussijuhi osalusel | keep
+22 | Veoautojuhi osalusel | keep
+23 | Ühissõidukijuhi osalusel | keep
+24 | Sõiduautojuhi osalusel | keep
+25 | Mootorratturi osalusel | keep
+26 | Mopeedijuhi osalusel | keep
+27 | Jalgratturi osalusel | keep
+28 | Alaealise osalusel | keep
+29 | Turvavarustust mitte kasutanud isiku osalusel | keep
+30 | Esmase juhiloa omaniku osalusel | keep
+31 | Mootorsõidukijuhi osalusel | keep
+32 | Tüüpskeemi nr | drop
+33 | Tüüpskeem [2] | drop
+34 | Tee tüüp [1] | drop
+35 | Tee tüüp [2] | keep
+36 | Tee element [1] | keep
+37 | Tee element [2] | drop
+38 | Tee objekt [2] | drop
+39 | Kurvilisus | keep
+40 | Tee tasasus | keep
+41 | Tee seisund | keep
+42 | Teekate | drop
+43 | Teekatte seisund [2] | keep
+44 | Sõiduradade arv | drop
+45 | Lubatud sõidukiirus (PPA) | keep
+46 | Tee nr (PPA) | drop
+47 | Tee km (PPA) | drop
+48 | Ilmastik [1] | keep
+49 | Valgustus [1] | drop
+50 | Valgustus [2] | keep
+51 | GPS X | keep
+52 | GPS Y | keep
